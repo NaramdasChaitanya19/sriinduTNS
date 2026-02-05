@@ -1,5 +1,8 @@
 package com.tnsif.intro.abstraction;
 
-public abstract class Shapes {
-
+abstract public class Shapes {
+	abstract void show();
+	abstract void CalArea();
 }
+
+
